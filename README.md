@@ -10,7 +10,8 @@
 This project features an interactive Power BI dashboard built to analyze e-commerce sales performance. It highlights core key performance indicators (KPIs) including total sales amount, profit, quantity sold, and average order value. Powered by Power Query for data transformation and DAX for custom calculations, the report uncovers actionable sales trends and profitability insights.
 
 ### Key Features:
-  - **KPI Metrics**: 
+- **KPI Metrics**:
+
   - Total Sales Amount
   - Total Profit
   - Total Quantity
